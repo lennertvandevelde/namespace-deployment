@@ -4,4 +4,4 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: ghcr.io/lennertvandevelde/my-image:425f241a6fe27f4c238921a1ed3cb0e6c7700c66
+          image: ghcr.io/lennertvandevelde/my-image:aba9344
