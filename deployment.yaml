@@ -1,1 +1,7 @@
-image: ghcr.io/lennertvandevelde/my-image:28a6f49391adfa421f1a5175890d10daedc9297b
+# spec.template.spec.containers[0].image
+spec:
+  template:
+    spec:
+      containers:
+        - name: my-container
+          image: ghcr.io/lennertvandevelde/my-image:28a6f49391adfa421f1a5175890d10daedc9297b
