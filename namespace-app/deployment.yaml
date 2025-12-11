@@ -4,4 +4,4 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: ghcr.io/lennertvandevelde/namespace-app:667984b
+          image: ghcr.io/lennertvandevelde/namespace-app:1dab1ff
